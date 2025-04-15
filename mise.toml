@@ -1,3 +1,6 @@
+[tasks.jupyter]
+run = "jupyter lab"
+
 [tools]
 python = "3.13"
 uv = "latest"
